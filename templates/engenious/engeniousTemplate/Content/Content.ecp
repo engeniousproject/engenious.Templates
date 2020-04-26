@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content>
+  <Name>Content</Name>
+  <Configuration>Debug</Configuration>
+  <OutputDir>bin/$(Configuration)</OutputDir>
+  <Contents>
+  </Contents>
+</Content>

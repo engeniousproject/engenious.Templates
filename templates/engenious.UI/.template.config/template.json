@@ -1,0 +1,23 @@
+{
+    "author": "jvbsl",
+    "classifications": [ "engenious", "engeniousproject", "engenious.ui" ],
+    "groupIdentity": [ "engenious", "engeniousproject",  "engenious.ui" ],
+    "tags": ["engenious", "engeniousproject", "xna", "monogame", "game", "3D",  "engenious.ui"],
+    "name": "Engenious UI project template",
+    "identity": "engeniousproject.engenious.ui",
+    "shortName": "engenious.ui",
+    "guids": [ "BB773EAC-C473-40EB-B671-C2C79DAA7E42", "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC" ],
+    "sourceName": "engeniousTemplate",
+    "primaryOutputs": [
+        {
+            "path":"./engeniousTemplate/engeniousTemplate.csproj"
+        }
+    ],
+    "sources":[
+        {
+            "source":"./",
+            "target":"./",
+        }
+    ],
+}
+

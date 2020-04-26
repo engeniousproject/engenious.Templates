@@ -1,8 +1,10 @@
 {
     "author": "jvbsl",
-    "classifications": [ "engenious", "engeniousproject" ],
+    "classifications": [ "engenious", "engeniousproject", "xna", "monogame", "game", "3D" ],
     "groupIdentity": [ "engenious", "engeniousproject" ],
-    "tags": ["engenious", "engeniousproject", "xna", "monogame", "game", "3D"],
+    "tags": {
+         "language": "C#",
+         "type": "project"},
     "name": "Engenious project template",
     "identity": "engeniousproject.engenious",
     "shortName": "engenious",

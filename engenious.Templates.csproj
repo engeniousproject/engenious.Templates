@@ -19,7 +19,7 @@
     <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
     <Compile Remove="**\*" />
     
-    <PackageReference Include="LitGit" Version="0.2.0.11-alpha" PrivateAssets="all" />
+    <PackageReference Include="LitGit" Version="0.2.0.55-alpha" PrivateAssets="all" />
     
     <None Remove="engenious.Templates.Version.props.template" />
     <LitGitTemplateReference Include="engenious.Templates.Version.props.template" />
